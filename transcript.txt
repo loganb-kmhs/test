@@ -1,0 +1,39 @@
+Renee:Hello, it will be my pleasure to assist you today. Please allow me a moment to access your policy.
+Renee:Good morning. Just a moment while I check your connection and see how I can help.
+Renee:Please allow me 3-4 minutes to research this for you. If you should receive a 'Chat Timer Warning' before I return, please reset the timer by typing and sending a message, acknowledging your willingness to wait.
+Renee:I am sorry we are not receiving your steps since 3/6. Please open your Go365 mobile app and the steps will update and points will award within 24 hours.
+Me:Did you do something on your end that guarantees that will happen?
+Renee:No, I am sorry I did not. I see that you are connected. We have not received data since 3/06. If the steps are recording in your Samsung health app for 3/7 to current, you will need to open your Go365 mobile app to allow the update. Once you open the Go365 mobile app the data uploads in 24 hours.
+Me:It has not. That is the problem
+Me:I have opened the app multiple times since 3/6
+Me:with no updates
+Renee:I am sorry we are not receiving your steps. Are the steps recording in your Samsung Health app?
+Me:Yes they are.
+Renee:Thank you for that confirmation. Here is a list of the steps to follow to insure that your data uploads to Go365:
+Renee:Once you are on the new version of the Go365 Mobile app (2.2.6), please follow the steps below to reconnect Samsung Health to Go365.
+  
+• Uninstall the Go365 Mobile app
+• Check for and complete updates to your Android System and Samsung Health app if needed
+• Open the Samsung Health app and let it run in the background
+• Reinstall the Go365 Mobile app
+• Reconnect Samsung Health, allowing all permissions to be shared with Go365 
+• There are 7 pages of permissions, please make sure that you go through all 7 to allow all permissions where needed. 
+• It is not necessary to have all of the permissions shared, however, it is important to have “Daily Step Trends” allowed in order for your data to sync with Go365
+Me:I have already done that
+Me:It worked until 3/6
+Me:I went through the process again
+Me:and I have had no luck getting the steps to sync through
+Renee:I am sorry you are having this difficulty. You say you have followed all the steps I have listed above? When did you complete those steps?
+Me:I completed those steps back in the last week of February
+Me:and then I completed them again last night
+Me:I had also performed them sometime in between the 6th and yesterday evening
+Renee:Thank you for confirming that information. If you have confirmed that both apps are up to date and all permissions allowed, the data will update after the opening of your Go365 mobile app.
+Renee:I can monitor your account for the next 24 hours to confirm the data uploads. May I have your email to keep you updated?
+Me:ben.logan.ripon@gmail.com
+Renee:Thank you. Since you did the reconnection yesterday, I will monitor your account for the next few days to confirm the data is uploading. I will email you updates. For your records, the case number for our chat today is 1000202091396.
+Me:and if the data is not uploading?
+Renee:Once you reconnect and open the Go365 mobile app it takes 24 hours for the upload to complete. At this time, we only have data up to 3/6. Continue to open your Go365 mobile app daily and I will monitor your account and update you once the steps are updating.
+Me:And my question is, if after 24-48 hours it has not updated, what will our next steps be?
+Renee:I can open a research ticket on your issue if the upload does not complete. I apologize for the inconvenience this issue is causing you.
+Me:Ok. Have a nice day.
+Renee:Thanks so much for chatting with me today.  We invite you to take a short survey at the end of our chat to get your feedback on your interaction with me today. The survey will appear once you click End Chat. Have a great day!
